@@ -7,7 +7,7 @@ A complete Bank Management System built using Java Swing and MySQL integration. 
 ## 📄 Project Documentation
 
 Download the full 30-page project documentation here:  
-[📘 Project_Explanation.pdf](Bank Management ( Project_Explanation ) .pdf)  
+[📘 Project_Explanation.pdf](BankManagement_Project_Explanation_20250417.pdf)  
 
 ---
 
